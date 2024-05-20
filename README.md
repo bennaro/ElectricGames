@@ -7,7 +7,7 @@ Prerequisites:
 * Node.js and npm (or yarn) installed on your system. You can download them from https://nodejs.org/
 Clone the Repository:
 ```
-git clone https://your-github-repo-url.git
+git clone https://github.com/bennaro/ElectricGames.git
 Use code with caution.
 ```
 Install Dependencies:
@@ -42,13 +42,6 @@ This will typically launch the application in your default browser at http://loc
 * **Data Fetching:** Axios, Fetch API, or a GraphQL client
 * **Routing:** React Router
 * **Testing:** Jest, Mocha, or another testing framework
-
-# Development Notes
-
-* Code organization and conventions (e.g., component structure, naming conventions)
-* Hot reloading or module federation (if applicable)
-* Linting and formatting tools (if applicable)
-
 
 # Frontend API Reference
 
