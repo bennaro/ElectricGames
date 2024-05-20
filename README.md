@@ -37,15 +37,13 @@ This will typically launch the application in your default browser at http://loc
 # Frontend Technology Stack
 
 * **Frontend Framework:** React
-* **State Management:** Redux, MobX, Context API, or another state management solution (if applicable)
 * **Styling:** CSS, Bootstrap
-* **Data Fetching:** Axios, Fetch API, or a GraphQL client
+* **Data Fetching:** Axios
 * **Routing:** React Router
-* **Testing:** Jest, Mocha, or another testing framework
 
-# Frontend API Reference
+# To run the API go to:
 
-(Provide details on how to interact with the backend API from the frontend, including endpoints, request/response formats, and authentication (if necessary))
+https://github.com/bennaro/ElectricGamesApi.git
 
 
 # Images
